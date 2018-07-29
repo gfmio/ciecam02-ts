@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "./lib",
+    "noImplicitAny": true,
+  },
+  "files": [
+    "./src/index.ts"
+  ]
+}
