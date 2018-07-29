@@ -1,3 +1,5 @@
+// The reference for understanding CIECAM02 is:
+// http://www.springer.com/cda/content/document/cda_downloaddocument/9781441961891-c1.pdf
 
 import * as ciebase from "ciebase-ts";
 import { Vector3D } from "ciebase-ts";
