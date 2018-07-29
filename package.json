@@ -1,6 +1,6 @@
 {
   "name": "ciecam02-ts",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "TypeScript port of ciecam - An implementation of CIECAM02",
   "author": "Frédérique Mittelstaedt <npm@gfm.io> (https://www.gfm.io)",
   "license": "MIT",
